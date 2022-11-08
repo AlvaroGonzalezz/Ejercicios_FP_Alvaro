@@ -1,0 +1,7 @@
+C:\Users\Lab.Comp\source\repos\U3AC1_C_ Alvaro\U3AC1_C_ Alvaro\bin\Debug\U3AC1_C_ Alvaro.exe.config
+C:\Users\Lab.Comp\source\repos\U3AC1_C_ Alvaro\U3AC1_C_ Alvaro\bin\Debug\U3AC1_C_ Alvaro.exe
+C:\Users\Lab.Comp\source\repos\U3AC1_C_ Alvaro\U3AC1_C_ Alvaro\bin\Debug\U3AC1_C_ Alvaro.pdb
+C:\Users\Lab.Comp\source\repos\U3AC1_C_ Alvaro\U3AC1_C_ Alvaro\obj\Debug\U3AC1_C_ Alvaro.csprojAssemblyReference.cache
+C:\Users\Lab.Comp\source\repos\U3AC1_C_ Alvaro\U3AC1_C_ Alvaro\obj\Debug\U3AC1_C_ Alvaro.csproj.CoreCompileInputs.cache
+C:\Users\Lab.Comp\source\repos\U3AC1_C_ Alvaro\U3AC1_C_ Alvaro\obj\Debug\U3AC1_C_ Alvaro.exe
+C:\Users\Lab.Comp\source\repos\U3AC1_C_ Alvaro\U3AC1_C_ Alvaro\obj\Debug\U3AC1_C_ Alvaro.pdb
